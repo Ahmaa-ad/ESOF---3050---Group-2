@@ -6,7 +6,6 @@ public class Main {
 		System.out.println("Hello world!");
 		System.out.println("Goodbye world!");
 		System.out.println("Taa-ddaaa!");
-		System.out.println("Oy Vey");
 		System.out.println("Oooooo");
 	}
 }
